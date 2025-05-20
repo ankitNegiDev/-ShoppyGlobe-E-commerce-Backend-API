@@ -1,0 +1,8 @@
+# to ignore nested lvel node modules
+**/node_modules/ 
+# to ignore top level or node modules at one level.
+/node_modules/
+
+
+githublink.md
+.env
